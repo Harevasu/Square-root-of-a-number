@@ -17,7 +17,7 @@ To write a program to find the square root of a number.
 ## Program:
 /*
 Program to find the square root for the given number(newton's method) using function.
-
+*/
 ```
 def square_root(n, epsilon=1e-10):
     guess = n / 2.0
@@ -33,7 +33,7 @@ else:
 ```
 Developed by: Harevasu S
 RegisterNumber:  212223230069
-*/
+
 
 
 ## Output:
