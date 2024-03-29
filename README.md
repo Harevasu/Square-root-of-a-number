@@ -15,9 +15,9 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-/*
-Program to find the square root for the given number(newton's method) using function.
-*/
+
+### Program to find the square root for the given number(newton's method) using function.
+
 ```
 def square_root(n, epsilon=1e-10):
     guess = n / 2.0
@@ -31,8 +31,8 @@ if num==64:
 else:
     print("Square root of the number: {}".format(result))
 ```
-Developed by: Harevasu S
-RegisterNumber:  212223230069
+### Developed by: Harevasu S
+### RegisterNumber:  212223230069
 
 
 
