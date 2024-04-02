@@ -15,7 +15,8 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-
+### Developed by: HAREVASU S
+### RegisterNumber:  212223230069
 ### Program to find the square root for the given number(newton's method) using function.
 
 ```
@@ -31,15 +32,13 @@ if num==64:
 else:
     print("Square root of the number: {}".format(result))
 ```
-### Developed by: Harevasu S
-### RegisterNumber:  212223230069
+
 
 
 
 ## Output:
 
-![image](https://github.com/Harevasu/Square-root-of-a-number/assets/147985044/fdd9c69c-c403-49d8-bbc5-34d8b8d0c403)
 
-
+![alt text](image.png)
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
